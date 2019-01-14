@@ -4,15 +4,19 @@
 
 <img align="right" width="255" height="329" src="manuscript/images/title_page_small.png" />
 
-> **IMPORTANT!** If you want to support the development of this book, you can [purchase a copy at Leanpub](https://leanpub.com/survivejs-webpack). A part (~30%) of the proceedings will go directly to the author of webpack to support its development.
+> **IMPORTANT** Si vous souhaitez soutenir le développement de ce livren vous pouvez en [acheter un exemplaire sur Leanpub](https://leanpub.com/survivejs-webpack). 30% des revenus issues de la vente iront seront reversés directement au créateur de webpack, ce qui soutiendra le développement de l'outil.
 
-Webpack, a module bundler, solves a significant problem for web developers. It can be daunting to learn but once you grok it, life gets easier. The purpose of this book is to make it easier to pick up the tool while learning more advanced techniques as well. You can [read the book online](http://survivejs.com/webpack/introduction/).
+Webpack est un bundler de resources qui résout un des principaux problèmes du développement web. Il peut être intimidant a appréhender, mais une fois que vous vous serez fait la main, cet outil vous facilitera grandement la vie.
 
-## How to Use This Repository?
+Le but de ce livre est de vous permettre de prendre en main cet outil plus facilement, puis de vous apprendre à en maitriser les subtilités.
+Vous pouvez [lire ce livre en ligne](http://survivejs.com/webpack/introduction/).
 
-You can read the content easily through [the book site](http://survivejs.com/webpack/introduction/). It is also available within the `manuscript` directory of the repository.
+## Comment utiliser ce dépot?
 
-Please note that the repository defaults to the `dev` branch of the book. `master` contains the source of the most recent version. Each version has been tagged so that it's easy for you to find the source matching to the version of the book you are reading.
+Vous pouvez le contenu de ce livre facilement sur [le site officiel](http://survivejs.com/webpack/introduction/). Vous pouvez également y accéder via le répertoire `manuscript` de ce dépot.
+
+Veillez noter que la branche par défaut est `dev` tandis que `master` contient le code source de la dernière version publiée. Chaque version corresponds à un tag git, ce qui vous permet de retrouver facilement le code source de la version que vous consulterez.
+
 
 ## Getting Support
 

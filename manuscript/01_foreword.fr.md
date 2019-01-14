@@ -1,11 +1,14 @@
-# Foreword
+# Avant-Propos
 
-It’s a funny story how I started with webpack. Before getting addicted to JavaScript, I also developed in Java. I tried GWT (Google Web Toolkit) in that time. GWT is a Java-to-JavaScript Compiler, which has a great feature: [code splitting](http://www.gwtproject.org/doc/latest/DevGuideCodeSplitting.html). I liked this feature and missed it in existing JavaScript tooling. I made [a pull request](https://github.com/medikoo/modules-webmake/issues/7) to an existing module bundler, but it did not go through. Webpack was born.
+Mon aventure avec webpack a commencé de façon assez drôle. Avant de devenir accro à Javascript, j'ai aussi développé en Java. J'ai essayé GWT (Google Web Toolkit) à cette époque. GWT est un compilateur Java -> Javascript, qui présente une superbe fonctionnalité: le
+[*code splitting*](http://www.gwtproject.org/doc/latest/DevGuideCodeSplitting.html) (*le découpage de bundle à la demande initié par le developpeur*). J'aimais beaucoup cette fonctionnalité mais elle n'existait pas dans l'outillage de l'écosytème javascript de l'époque. J'ai soumis une [pull request](https://github.com/medikoo/modules-webmake/issues/7) à un packager de module (*module bundler*) existant, mais cela n'a pas abouti. Webpack était né.
 
-Somehow the Instagram frontend team discovered an early version of webpack and started to use it for instagram.com. Pete Hunt, Facebook employee managing the Instagram web team, gave [the first significant talk about webpack](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) at OSCON 2014. The talk boosted the popularity of webpack. One of the reasons for adoption of webpack by Instagram was **code splitting**.
+D'une maniere ou d'une autre, l'équipe frontend d'Instagram est entré en contact avec une des premières version de webpack et a commencé à l'utiliser pour instagram.com. Pete Hunt, un employé de Facebook en charge de l'équipe web d'instagram, donna [le premier talk significatif a propos de webpack](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) à l'édition 2014 de l'OSCON. Cette intervention a galvanisé la popularité de webpack. Une des raisons de son adoption au sein d'Instagram a été le **code splitting**.
 
-I have been following this book since its early stages. It was once a combined React and webpack book. It has grown since then and become a book of its own filled with content.
+J'ai suivi l'avancement de ce livre depuis les premières pages. Il faisait auparavant partie d'un livre commun avec React, mais son contenu s'est tellement enrichi qu'il est devenu un livre a part entière.
 
-Juho is an important part of the webpack documentation team for the webpack documentation, so he knows best what complements the official documentation. He has used this knowledge to create a book that supplies you with a deep understanding of webpack and teaches you to use the tool to its full potential.
+Juho est un membre important de l'équipe en charge de la documentation de webpack, donc il est a même de savoir ce qui pourrait compléter au mieux la documentation officielle.
+
+Il a mis en oeuvre cette expertise pour créer un ouvrage qui va vous donner une comprehension profonde de webpack et vous apprendra à utiliser tout le potentiel de cet outil.
 
 Tobias Koppers
